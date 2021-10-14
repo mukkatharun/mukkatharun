@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Tharun Mukka  
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tharunmukka1/)
+  
+  ### Pronouns - He/Him
+  
+  # More about me:
+  
+  I am **master's student** :mortar_board:, pursuing my degree in Data Science from **San Jose State University, San Jose** :school:. I am into problem solving, web development and Data Engineer. 
