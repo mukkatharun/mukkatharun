@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   # More about me:
   
-  I am **master's student** :mortar_board:, pursuing my degree in Data Science from **San Jose State University, San Jose** :school:. I have previously worked as Software Developer for 4 years where i was focusing on building Front End using React Js and creating resuable components, Back End with Spring Boot, Building Data Pipelines. 
+  I am **master's student** :mortar_board:, pursuing my degree in Data Science from **San Jose State University, San Jose** :school:. I have previously worked as Software Developer for 4 years where i was focusing on building Front End using React Js and creating resuable components, Back End with Spring Boot, Building Data Pipelines(ETL). 
 
 ## Github stats
 
